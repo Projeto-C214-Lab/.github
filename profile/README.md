@@ -27,6 +27,9 @@ Aqui estarão os códigos feitos durante a execução do projeto.
 - <a href="#tecnologia">Tecnologias</a>
   - <a href="#a1">Javascript</a>
   - <a href="#a1">Angular</a>
+- <a href="#description">O que é o projeto</a>
+- <a href="#requirements">Pré-requisitos</a>
+- <a href="#howTo">Como executar</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
@@ -40,6 +43,23 @@ Aqui estarão os códigos feitos durante a execução do projeto.
 
 </div>
 <br>
+
+<div id="description">
+<h2> :speech_balloon: O que é o projeto? </h2>
+Descrição do projeto.
+</div>
+
+<div id="requirements">
+<h2> :white_check_mark: Pré-requisitos: </h2>
+
+- [Java Script](https://www.javascript.com)
+- [Angular](https://angular.io)
+</div>
+
+<div id="howTo">
+<h2> :computer: Como executar o projeto: </h2>
+Descrição de como executar o projeto.
+</div>
 
 <div id="footer" align="center">
 
