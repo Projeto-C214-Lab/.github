@@ -25,39 +25,44 @@ Aqui estarão os códigos feitos durante a execução do projeto.
 
 - <a href="#intro">Introdução</a>
 - <a href="#tecnologia">Tecnologias</a>
-  - <a href="#a1">Javascript</a>
-  - <a href="#a1">Angular</a>
-- <a href="#description">O que é o projeto</a>
+- <a href="#description">Funcionamento</a>
 - <a href="#requirements">Pré-requisitos</a>
+  - <a href="#a1">Javascript</a>
+  - <a href="#a2">Angular</a>
 - <a href="#howTo">Como executar</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
+<div>
+<h2 id="intro" align="left">Introdução</h2>
+Trata-se basicamente de um conversor do moeda simples, a fim de utilizar os conceitos já vistos na disciplina e também integrar com o framework escolhido.
+</div>
+
 <div style="display: inline_block"><br>
-<h2 id="tecnologia" align="left">Tecnologias 🚀</h2>
+<h2 id="tecnologia" align="left"> 🚀 Tecnologias</h2>
 
   <img align="center" alt="Js" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="65" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-
- <br>
-
+  <img align="center" alt="Node" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 <br>
 
 <div id="description">
-<h2> :speech_balloon: O que é o projeto? </h2>
-Descrição do projeto.
+<h2> ⚙️ Funcionamento </h2>
+O usuário irá inserir o valor desejado, a moeda que deseja converter e a moeda para a qual a conversão será feita.
+Através de uma API com os valores das moedas pelo mundo será feito o cálculo no backend e apresentado ao usuário, de maneira simples, após a resposta da requisição.
 </div>
 
 <div id="requirements">
-<h2> :white_check_mark: Pré-requisitos: </h2>
+<h2> ✅ Pré-requisitos </h2>
 
 - [Java Script](https://www.javascript.com)
 - [Angular](https://angular.io)
+- [Node](https://nodejs.org/en/)
 </div>
 
 <div id="howTo">
-<h2> :computer: Como executar o projeto: </h2>
+<h2> 💻 Como executar o projeto </h2>
 Descrição de como executar o projeto.
 </div>
 
