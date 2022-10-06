@@ -55,12 +55,12 @@ Através de uma API com os valores das moedas pelo mundo será feito o cálculo 
 <div id="requirements">
 <h2> ✅ Pré-requisitos </h2>
 
-- <a id="node"> [Node](https://nodejs.org/en/) </a>
+- <a href="https://nodejs.org/en/" id="node">Node</a>
 </div>
 
 <div id="requirements">
 <h2> 🔗 Framework </h2>
-O framework escolhido foi o [Angular](https://angular.io), devido à sua popularidade nos dias atuais e recursos de documentação para auxiliar no desenvolvimento.
+O framework escolhido foi o <a href="https://angular.io">Angular</a>, devido à sua popularidade nos dias atuais e recursos de documentação para auxiliar no desenvolvimento.
 O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para o desenvolvimento de aplicações web modernas. Foi construído com TypeScript e sua arquitetura se baseia em "componentes", que são pequenos grupos de funcionalidades isoladas e independentes.
 </div>
 
