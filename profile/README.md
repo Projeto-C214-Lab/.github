@@ -1,6 +1,6 @@
 ## Projeto C214 Lab 👋
 
-<div id="intro">
+<div>
 Referente ao projeto de laboratório da disciplina de Engenharia de Software do Instituto Nacional de Telecomunicações - INATEL.
 Aqui estarão os códigos feitos durante a execução do projeto.
 </div>
@@ -27,15 +27,14 @@ Aqui estarão os códigos feitos durante a execução do projeto.
 - <a href="#tecnologia">Tecnologias</a>
 - <a href="#description">Funcionamento</a>
 - <a href="#requirements">Pré-requisitos</a>
-  - <a href="#a1">Javascript</a>
-  - <a href="#a2">Angular</a>
+  - <a href="#node">Node JS</a>
 - <a href="#howTo">Como executar</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
 <div>
 <h2 id="intro" align="left">Introdução</h2>
-Trata-se basicamente de um conversor do moeda simples, a fim de utilizar os conceitos já vistos na disciplina e também integrar com o framework escolhido.
+Trata-se basicamente de um conversor de moeda simples, a fim de utilizar os conceitos já vistos na disciplina e também integrar com o framework escolhido.
 </div>
 
 <div style="display: inline_block"><br>
@@ -56,9 +55,13 @@ Através de uma API com os valores das moedas pelo mundo será feito o cálculo 
 <div id="requirements">
 <h2> ✅ Pré-requisitos </h2>
 
-- [Java Script](https://www.javascript.com)
-- [Angular](https://angular.io)
-- [Node](https://nodejs.org/en/)
+- <a id="node"> [Node](https://nodejs.org/en/) </a>
+</div>
+
+<div id="requirements">
+<h2> 🔗 Framework </h2>
+O framework escolhido foi o [Angular](https://angular.io), devido à sua popularidade nos dias atuais e recursos de documentação para auxiliar no desenvolvimento.
+O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para o desenvolvimento de aplicações web modernas. Foi construído com TypeScript e sua arquitetura se baseia em "componentes", que são pequenos grupos de funcionalidades isoladas e independentes.
 </div>
 
 <div id="howTo">
