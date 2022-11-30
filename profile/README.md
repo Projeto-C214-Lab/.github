@@ -64,6 +64,21 @@ O framework escolhido foi o <a href="https://angular.io">Angular</a>, devido à 
 O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para o desenvolvimento de aplicações web modernas. Foi construído com TypeScript e sua arquitetura se baseia em "componentes", que são pequenos grupos de funcionalidades isoladas e independentes.
 </div>
 
+# <div id=testes>Testes - Jasmine 🧪</div>
+
+Podemos instalar o Jasmine pelo terminal com o seguinte comando:
+```
+npm i jasmine
+```
+E em seguida, inciá-lo.
+```
+jasmine init
+```
+A execução será mostrada a seguir.
+Obs.: documentação do Jasmine pode ser encontrada clicando <a href="https://jasmine.github.io/pages/getting_started.html">aqui</a>.
+
+OBS.: Os testes que foram executados durante a apresentação em sala de aula podem ser encontrados <a href="">aqui</a>, e sua execução se dá conforme descrito abaixo.
+
 <div id="howTo">
 <h2> 💻 Como executar o projeto </h2>
 A descrição detalhada de como executar o projeto pode ser encontrada clicando <a href="https://github.com/Projeto-C214-Lab/frontend">aqui</a>.
