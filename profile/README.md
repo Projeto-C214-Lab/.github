@@ -66,7 +66,7 @@ O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para
 
 <div id="howTo">
 <h2> 💻 Como executar o projeto </h2>
-Descrição de como executar o projeto.
+A descrição detalhada de como executar o projeto pode ser encontrada clicando <a href="https://github.com/Projeto-C214-Lab/frontend">aqui</a>.
 </div>
 
 <div id="footer" align="center">
