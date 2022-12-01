@@ -66,12 +66,7 @@ O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para
 
 <div id="testes">
 <h2> 🧪 Testes - Jasmine </h2>
-Ao criar um projeto com Angular, o mesmo já traz consigo o Jasmine e o Karma. Também conta com testes simples que podem ser executados a partir do comando:  
-
-  ```
-ng test
-  ```
-Podemos também instalar o Jasmine pelo terminal com o seguinte comando:
+Podemos  instalar o Jasmine pelo terminal com o seguinte comando:
 
   ```
 npm i jasmine
@@ -85,6 +80,24 @@ Obs.: documentação do Jasmine pode ser encontrada clicando <a href="https://ja
 
 OBS.: Os testes que foram criados podem ser encontrados <a href="https://github.com/Projeto-C214-Lab/frontend/tree/main/conversorMoedas/src/app">aqui</a>.
 
+## Executando os testes (no terminal)
+
+1. Basta estar no diretório raiz da aplicação e executar o seguinte comando no terminal: 
+```
+npm test
+```
+2. Os testes serão exibidos em seguida mostrando seus respectivos resultados.
+
+## Testes com o Karma no Browser
+Ao criar um projeto com Angular, o mesmo traz consigo o Jasmine e o Karma com testes pré prontos e simples que podem ser executados conforme descrito a seguir: 
+  
+Dentro do diretório da aplicação execute o seguinte comando:
+```
+ng test
+```
+Uma página do seu navegador padrão abrirá e serão exibidos os testes e seus resultados.
+Além disso os resultados também são exibidos em tempo real no terminal, ou seja, mesmo enquanto estão sendo feitas alterações no código é possível ver se o teste passa ou não.
+  
 <div id="howTo">
 <h2> 💻 Como executar o projeto </h2>
 A descrição detalhada de como executar o projeto pode ser encontrada clicando <a href="https://github.com/Projeto-C214-Lab/frontend">aqui</a>.
