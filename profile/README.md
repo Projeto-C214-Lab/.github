@@ -11,10 +11,10 @@ Aqui estarão os códigos feitos durante a execução do projeto.
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/IagoCB/lab-c214)
-![GitHub language count](https://img.shields.io/github/languages/count/IagoCB/lab-c214)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/IagoCB/lab-c214)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/IagoCB/lab-c214)
+![GitHub repo size](https://img.shields.io/github/repo-size/Projeto-C214-Lab/frontend)
+![GitHub language count](https://img.shields.io/github/languages/count/Projeto-C214-Lab/frontend)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Projeto-C214-Lab/frontend)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Projeto-C214-Lab/frontend)
 
 </div>
 
@@ -27,8 +27,8 @@ Aqui estarão os códigos feitos durante a execução do projeto.
 - <a href="#tecnologia">Tecnologias</a>
 - <a href="#description">Funcionamento</a>
 - <a href="#requirements">Pré-requisitos</a>
-  - <a href="#node">Node JS</a>
 - <a href="#howTo">Como executar</a>
+- <a href="#testes">Testes</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
@@ -55,7 +55,8 @@ Através de uma API com os valores das moedas pelo mundo será feito o cálculo 
 <div id="requirements">
 <h2> ✅ Pré-requisitos </h2>
 
-- <a href="https://nodejs.org/en/" id="node">Node</a>
+- <a href="https://nodejs.org/en/" id="node">Node</a> para gerenciamento de dependências;
+- <a href="https://github.com/angular/angular-cli"> Angular CLI</a> para executar os comandos necessário do framework.
 </div>
 
 <div id="requirements">
@@ -68,7 +69,7 @@ O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para
 <h2> 🧪 Testes - Jasmine </h2>
 Podemos  instalar o Jasmine pelo terminal com o seguinte comando:
 
-  ```
+```
 npm i jasmine
 ```
 E em seguida, inciá-lo.
