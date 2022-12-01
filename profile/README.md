@@ -67,11 +67,13 @@ O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para
 <div id="testes">
 <h2> 🧪 Testes - Jasmine </h2>
 Ao criar um projeto com Angular, o mesmo já traz consigo o Jasmine e o Karma. Também conta com testes simples que podem ser executados a partir do comando:  
-```
+
+  ```
 ng test
-```
+  ```
 Podemos também instalar o Jasmine pelo terminal com o seguinte comando:
-```
+
+  ```
 npm i jasmine
 ```
 E em seguida, inciá-lo.
