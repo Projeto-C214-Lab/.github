@@ -39,10 +39,9 @@ Trata-se basicamente de um conversor de moeda simples, a fim de utilizar os conc
 
 <div style="display: inline_block"><br>
 <h2 id="tecnologia" align="left"> 🚀 Tecnologias</h2>
-
-  <img align="center" alt="Js" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="65" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-  <img align="center" alt="Node" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Node" height="85" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Js" height="65" width="65" src="https://storage.googleapis.com/eti-academy/courses/curso-introducao-ao-typescript.png">
+  <img align="center" alt="Node" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 <br>
 
