@@ -64,9 +64,12 @@ O framework escolhido foi o <a href="https://angular.io">Angular</a>, devido à 
 O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para o desenvolvimento de aplicações web modernas. Foi construído com TypeScript e sua arquitetura se baseia em "componentes", que são pequenos grupos de funcionalidades isoladas e independentes.
 </div>
 
-# <div id=testes>Testes - Jasmine 🧪</div>
-
-Podemos instalar o Jasmine pelo terminal com o seguinte comando:
+<div id=testes>Testes - Jasmine 🧪</div>
+Ao criar um projeto com Angular, o mesmo já traz consigo o Jasmine e o Karma. Também conta com testes simples que podem ser executados a partir do comando:  
+```
+ng test
+```
+Podemos também instalar o Jasmine pelo terminal com o seguinte comando:
 ```
 npm i jasmine
 ```
@@ -77,7 +80,7 @@ jasmine init
 A execução será mostrada a seguir.
 Obs.: documentação do Jasmine pode ser encontrada clicando <a href="https://jasmine.github.io/pages/getting_started.html">aqui</a>.
 
-OBS.: Os testes que foram executados durante a apresentação em sala de aula podem ser encontrados <a href="">aqui</a>, e sua execução se dá conforme descrito abaixo.
+OBS.: Os testes que foram criados podem ser encontrados <a href="https://github.com/Projeto-C214-Lab/frontend/tree/main/conversorMoedas/src/app">aqui</a>.
 
 <div id="howTo">
 <h2> 💻 Como executar o projeto </h2>
