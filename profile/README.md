@@ -64,7 +64,8 @@ O framework escolhido foi o <a href="https://angular.io">Angular</a>, devido à 
 O Angular é um framework JavaScript reativo mantido pelo Google, utilizado para o desenvolvimento de aplicações web modernas. Foi construído com TypeScript e sua arquitetura se baseia em "componentes", que são pequenos grupos de funcionalidades isoladas e independentes.
 </div>
 
-<div id=testes>Testes - Jasmine 🧪</div>
+<div id="testes">
+<h2> 🧪 Testes - Jasmine </h2>
 Ao criar um projeto com Angular, o mesmo já traz consigo o Jasmine e o Karma. Também conta com testes simples que podem ser executados a partir do comando:  
 ```
 ng test
